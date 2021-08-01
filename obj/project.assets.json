@@ -7188,11 +7188,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\G3\\source\\repos\\Assignment-SiteCore-Test\\Assignment-SiteCore-Test.csproj",
+      "projectUniqueName": "C:\\Dinesh_Assignment\\Assignment-SiteCore-Test\\Assignment-SiteCore-Test.csproj",
       "projectName": "Assignment-SiteCore-Test",
-      "projectPath": "C:\\Users\\G3\\source\\repos\\Assignment-SiteCore-Test\\Assignment-SiteCore-Test.csproj",
+      "projectPath": "C:\\Dinesh_Assignment\\Assignment-SiteCore-Test\\Assignment-SiteCore-Test.csproj",
       "packagesPath": "C:\\Users\\G3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\G3\\source\\repos\\Assignment-SiteCore-Test\\obj\\",
+      "outputPath": "C:\\Dinesh_Assignment\\Assignment-SiteCore-Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\G3\\AppData\\Roaming\\NuGet\\NuGet.Config",
